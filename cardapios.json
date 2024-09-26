@@ -1,0 +1,733 @@
+{
+    "monte-carmelo": [
+        {
+            "data": "2024-09-23",
+            "cardapio": {
+                "almoco": {
+                    "prato_principal": [
+                        "Quibe de forno Cremoso"
+                    ],
+                    "prato_veg": [
+                        "Quibe de Abóbora Cremoso"
+                    ],
+                    "arroz": [
+                        "Arroz Branco",
+                        "Arroz Integral"
+                    ],
+                    "feijao": [
+                        "Feijão Carioca"
+                    ],
+                    "guarnicao": [
+                        "Repolho Refogado"
+                    ],
+                    "salada": [
+                        "Pepino",
+                        "Beterraba Ralada"
+                    ]
+                },
+                "jantar": {
+                    "prato_principal": [
+                        "Isca Bovina Acebolada"
+                    ],
+                    "prato_veg": [
+                        "Escondidinho de Couve-flor com PTS"
+                    ],
+                    "arroz": [
+                        "Arroz Branco",
+                        "Arroz Integral"
+                    ],
+                    "feijao": [
+                        "Feijão Carioca"
+                    ],
+                    "guarnicao": [
+                        "Quibebe de Mandioca"
+                    ],
+                    "salada": [
+                        "Almeirão com Tomate"
+                    ]
+                }
+            }
+        },
+        {
+            "data": "2024-09-24",
+            "cardapio": {
+                "almoco": {
+                    "prato_principal": [
+                        "Frango Xadrez"
+                    ],
+                    "prato_veg": [
+                        "PTS Xadrez"
+                    ],
+                    "arroz": [
+                        "Arroz Branco",
+                        "Arroz Integral"
+                    ],
+                    "feijao": [
+                        "Feijão Carioca"
+                    ],
+                    "guarnicao": [
+                        "Berinjela Napolitana"
+                    ],
+                    "salada": [
+                        "Alface",
+                        "Cenoura Ralada"
+                    ]
+                },
+                "jantar": {
+                    "prato_principal": [
+                        "Feijoada"
+                    ],
+                    "prato_veg": [
+                        "Grão-de-bico ao Molho Pomodoro"
+                    ],
+                    "arroz": [
+                        "Arroz Branco",
+                        "Arroz Integral"
+                    ],
+                    "feijao": [
+                        "Feijão Carioca"
+                    ],
+                    "guarnicao": [
+                        "Farofa de Couve"
+                    ],
+                    "salada": [
+                        "Vinagrete"
+                    ]
+                }
+            }
+        },
+        {
+            "data": "2024-09-25",
+            "cardapio": {
+                "almoco": {
+                    "prato_principal": [
+                        "Coxa Assada"
+                    ],
+                    "prato_veg": [
+                        "Torta de Legumes"
+                    ],
+                    "arroz": [
+                        "Arroz Branco",
+                        "Arroz Integral"
+                    ],
+                    "feijao": [
+                        "Feijão Carioca"
+                    ],
+                    "guarnicao": [
+                        "Purê de Batata"
+                    ],
+                    "salada": [
+                        "Almeirão",
+                        "Pepino"
+                    ]
+                },
+                "jantar": {
+                    "prato_principal": [
+                        "Peixe Empanado"
+                    ],
+                    "prato_veg": [
+                        "Ovos Mexicanos"
+                    ],
+                    "arroz": [
+                        "Arroz Branco",
+                        "Arroz Integral"
+                    ],
+                    "feijao": [
+                        "Feijão Carioca"
+                    ],
+                    "guarnicao": [
+                        "Abobrinha Escabeche"
+                    ],
+                    "salada": [
+                        "Acelga com Laranja"
+                    ]
+                }
+            }
+        },
+        {
+            "data": "2024-09-26",
+            "cardapio": {
+                "almoco": {
+                    "prato_principal": [
+                        "Picadinho Bovino ao Molho Vermelho"
+                    ],
+                    "prato_veg": [
+                        "Rocambole de PTS com Creme de Cebola"
+                    ],
+                    "arroz": [
+                        "Arroz Branco",
+                        "Arroz Integral"
+                    ],
+                    "feijao": [
+                        "Feijão Carioca"
+                    ],
+                    "guarnicao": [
+                        "Macarrão Alho e Óleo"
+                    ],
+                    "salada": [
+                        "Repolho com Manga"
+                    ]
+                },
+                "jantar": {
+                    "prato_principal": [
+                        "Frango Acebolado"
+                    ],
+                    "prato_veg": [
+                        "Charutinho de Lentilha e Soja"
+                    ],
+                    "arroz": [
+                        "Arroz Branco",
+                        "Arroz Integral"
+                    ],
+                    "feijao": [
+                        "Feijão Carioca",
+                        "Feijão Tropeiro"
+                    ],
+                    "guarnicao": [
+                        "Creme de Milho"
+                    ],
+                    "salada": [
+                        "Mix de Folhas com Cebola"
+                    ]
+                }
+            }
+        },
+        {
+            "data": "2024-09-27",
+            "cardapio": {
+                "almoco": {
+                    "prato_principal": [
+                        "Carne Moída à Parmegiana"
+                    ],
+                    "prato_veg": [
+                        "Hambúrguer de PTS à Pizzaiolo"
+                    ],
+                    "arroz": [
+                        "Arroz Branco",
+                        "Arroz Integral"
+                    ],
+                    "feijao": [
+                        "Feijão Carioca"
+                    ],
+                    "guarnicao": [
+                        "Legumes Sauté"
+                    ],
+                    "salada": [
+                        "Acelga",
+                        "Tomate"
+                    ]
+                },
+                "jantar": {
+                    "prato_principal": [
+                        "Peixe Frito"
+                    ],
+                    "prato_veg": [
+                        "Abobrinha Gratinada"
+                    ],
+                    "arroz": [
+                        "Arroz Branco",
+                        "Arroz Integral"
+                    ],
+                    "feijao": [
+                        "Feijão Carioca"
+                    ],
+                    "guarnicao": [
+                        "Creme de Cabotiá"
+                    ],
+                    "salada": [
+                        "Beterraba Cozida",
+                        "Chicória"
+                    ]
+                }
+            }
+        }
+    ],
+    "umuarama": [
+        {
+            "data": "2024-09-23",
+            "cardapio": {
+                "almoco": {
+                    "prato_principal": [
+                        "Carne Ensopada com Batata"
+                    ],
+                    "prato_veg": [
+                        "Ensopado de PTS, Couve Flor e Vagem"
+                    ],
+                    "arroz": [
+                        "Arroz Branco",
+                        "Arroz Integral"
+                    ],
+                    "feijao": [
+                        "Feijão Carioca"
+                    ],
+                    "guarnicao": [
+                        "Polenta"
+                    ],
+                    "salada": [
+                        "Cenoura",
+                        "Repolho Branco"
+                    ]
+                },
+                "jantar": {
+                    "prato_principal": [
+                        "Almôndega de Carne ao Sugo"
+                    ],
+                    "prato_veg": [
+                        "Almondega de PTS ao Sugo"
+                    ],
+                    "arroz": [
+                        "Arroz Branco",
+                        "Arroz Integral"
+                    ],
+                    "feijao": [
+                        "Feijão Carioca"
+                    ],
+                    "guarnicao": [
+                        "Quibebe de Cabotiá"
+                    ],
+                    "salada": [
+                        "Chicória",
+                        "Tomate"
+                    ]
+                }
+            }
+        },
+        {
+            "data": "2024-09-24",
+            "cardapio": {
+                "almoco": {
+                    "prato_principal": [
+                        "Carne Moída à Parmegiana"
+                    ],
+                    "prato_veg": [
+                        "PTS à Parmegiana"
+                    ],
+                    "arroz": [
+                        "Arroz Branco",
+                        "Arroz Integral"
+                    ],
+                    "feijao": [
+                        "Feijão Carioca"
+                    ],
+                    "guarnicao": [
+                        "Macarrão Primavera"
+                    ],
+                    "salada": [
+                        "Couve",
+                        "Laranja"
+                    ]
+                },
+                "jantar": {
+                    "prato_principal": [
+                        "Frango Assado"
+                    ],
+                    "prato_veg": [
+                        "Berinjela com Grão de Bico à Parmegiana"
+                    ],
+                    "arroz": [
+                        "Arroz Branco",
+                        "Arroz Integral"
+                    ],
+                    "feijao": [
+                        "Feijão Carioca"
+                    ],
+                    "guarnicao": [
+                        "Batata Sauté"
+                    ],
+                    "salada": [
+                        "Repolho Roxo",
+                        "Manga"
+                    ]
+                }
+            }
+        },
+        {
+            "data": "2024-09-25",
+            "cardapio": {
+                "almoco": {
+                    "prato_principal": [
+                        "Estrogonofe de Frango"
+                    ],
+                    "prato_veg": [
+                        "Estrogonofe de Grão-de-bico"
+                    ],
+                    "arroz": [
+                        "Arroz Branco",
+                        "Arroz Integral"
+                    ],
+                    "feijao": [
+                        "Feijão Carioca"
+                    ],
+                    "guarnicao": [
+                        "Batata Rústica"
+                    ],
+                    "salada": [
+                        "Chicória",
+                        "Pepino"
+                    ]
+                },
+                "jantar": {
+                    "prato_principal": [
+                        "Arroz Carreteiro"
+                    ],
+                    "prato_veg": [
+                        "Arroz Carreteiro Vegetariano"
+                    ],
+                    "arroz": [
+                        "Arroz Branco",
+                        "Arroz Integral"
+                    ],
+                    "feijao": [
+                        "Feijão Carioca"
+                    ],
+                    "guarnicao": [
+                        "Cenoura Refogada"
+                    ],
+                    "salada": [
+                        "Acelga",
+                        "Beterraba Crua"
+                    ]
+                }
+            }
+        },
+        {
+            "data": "2024-09-26",
+            "cardapio": {
+                "almoco": {
+                    "prato_principal": [
+                        "Lombo Suíno ao Molho"
+                    ],
+                    "prato_veg": [
+                        "Cassoulet de Legumes com Feijão Branco"
+                    ],
+                    "arroz": [
+                        "Arroz Branco"
+                    ],
+                    "feijao": [
+                        "Feijão Carioca"
+                    ],
+                    "guarnicao": [
+                        "Beterraba Cozida"
+                    ],
+                    "salada": [
+                        "Mix de Folhas com Abacaxi"
+                    ]
+                },
+                "jantar": {
+                    "prato_principal": [
+                        "Isca Bovina ao Molho Próprio"
+                    ],
+                    "prato_veg": [
+                        "Bife de Soja"
+                    ],
+                    "arroz": [
+                        "Arroz Branco",
+                        "Arroz Integral"
+                    ],
+                    "feijao": [
+                        "Feijão Carioca"
+                    ],
+                    "guarnicao": [
+                        "Mandioca Cozida"
+                    ],
+                    "salada": [
+                        "Tabule"
+                    ]
+                }
+            }
+        },
+        {
+            "data": "2024-09-27",
+            "cardapio": {
+                "almoco": {
+                    "prato_principal": [
+                        "Quibe Recheado"
+                    ],
+                    "prato_veg": [
+                        "Quibe de Cabotiá"
+                    ],
+                    "arroz": [
+                        "Arroz Branco",
+                        "Arroz Integral"
+                    ],
+                    "feijao": [
+                        "Feijão Carioca"
+                    ],
+                    "guarnicao": [
+                        "Chuchu com Ervas"
+                    ],
+                    "salada": [
+                        "Couve",
+                        "Cenoura"
+                    ]
+                },
+                "jantar": {
+                    "prato_principal": [
+                        "Peixe à Cubana"
+                    ],
+                    "prato_veg": [
+                        "Ovo Cozido ao Molho Branco"
+                    ],
+                    "arroz": [
+                        "Arroz Branco",
+                        "Arroz Integral"
+                    ],
+                    "feijao": [
+                        "Feijão Carioca"
+                    ],
+                    "guarnicao": [
+                        "Abobrinha, Vagem e Cenoura"
+                    ],
+                    "salada": [
+                        "Pepino",
+                        "Alface"
+                    ]
+                }
+            }
+        }
+    ],
+    "santa-monica": [
+        {
+            "data": "2024-09-23",
+            "cardapio": {
+                "almoco": {
+                    "prato_principal": [
+                        "Carne Ensopada com Batata"
+                    ],
+                    "prato_veg": [
+                        "Ensopado de PTS, Couve Flor e Vagem"
+                    ],
+                    "arroz": [
+                        "Arroz Branco",
+                        "Arroz Integral"
+                    ],
+                    "feijao": [
+                        "Feijão Carioca"
+                    ],
+                    "guarnicao": [
+                        "Polenta"
+                    ],
+                    "salada": [
+                        "Cenoura",
+                        "Repolho Branco"
+                    ]
+                },
+                "jantar": {
+                    "prato_principal": [
+                        "Almôndega de Carne ao Sugo"
+                    ],
+                    "prato_veg": [
+                        "Almondega de PTS ao Sugo"
+                    ],
+                    "arroz": [
+                        "Arroz Branco",
+                        "Arroz Integral"
+                    ],
+                    "feijao": [
+                        "Feijão Carioca"
+                    ],
+                    "guarnicao": [
+                        "Quibebe de Cabotiá"
+                    ],
+                    "salada": [
+                        "Chicória",
+                        "Tomate"
+                    ]
+                }
+            }
+        },
+        {
+            "data": "2024-09-24",
+            "cardapio": {
+                "almoco": {
+                    "prato_principal": [
+                        "Carne Moída à Parmegiana"
+                    ],
+                    "prato_veg": [
+                        "PTS à Parmegiana"
+                    ],
+                    "arroz": [
+                        "Arroz Branco",
+                        "Arroz Integral"
+                    ],
+                    "feijao": [
+                        "Feijão Carioca"
+                    ],
+                    "guarnicao": [
+                        "Macarrão Primavera"
+                    ],
+                    "salada": [
+                        "Couve",
+                        "Laranja"
+                    ]
+                },
+                "jantar": {
+                    "prato_principal": [
+                        "Frango Assado"
+                    ],
+                    "prato_veg": [
+                        "Berinjela com Grão de Bico à Parmegiana"
+                    ],
+                    "arroz": [
+                        "Arroz Branco",
+                        "Arroz Integral"
+                    ],
+                    "feijao": [
+                        "Feijão Carioca"
+                    ],
+                    "guarnicao": [
+                        "Batata Sauté"
+                    ],
+                    "salada": [
+                        "Repolho Roxo",
+                        "Manga"
+                    ]
+                }
+            }
+        },
+        {
+            "data": "2024-09-25",
+            "cardapio": {
+                "almoco": {
+                    "prato_principal": [
+                        "Estrogonofe de Frango"
+                    ],
+                    "prato_veg": [
+                        "Estrogonofe de Grão-de-bico"
+                    ],
+                    "arroz": [
+                        "Arroz Branco",
+                        "Arroz Integral"
+                    ],
+                    "feijao": [
+                        "Feijão Carioca"
+                    ],
+                    "guarnicao": [
+                        "Batata Rústica"
+                    ],
+                    "salada": [
+                        "Chicória",
+                        "Pepino"
+                    ]
+                },
+                "jantar": {
+                    "prato_principal": [
+                        "Arroz Carreteiro"
+                    ],
+                    "prato_veg": [
+                        "Arroz Carreteiro Vegetariano"
+                    ],
+                    "arroz": [
+                        "Arroz Branco",
+                        "Arroz Integral"
+                    ],
+                    "feijao": [
+                        "Feijão Carioca"
+                    ],
+                    "guarnicao": [
+                        "Cenoura Refogada"
+                    ],
+                    "salada": [
+                        "Acelga",
+                        "Beterraba Crua"
+                    ]
+                }
+            }
+        },
+        {
+            "data": "2024-09-26",
+            "cardapio": {
+                "almoco": {
+                    "prato_principal": [
+                        "Lombo Suíno ao Molho"
+                    ],
+                    "prato_veg": [
+                        "Cassoulet de Legumes com Feijão Branco"
+                    ],
+                    "arroz": [
+                        "Arroz Branco"
+                    ],
+                    "feijao": [
+                        "Feijão Carioca"
+                    ],
+                    "guarnicao": [
+                        "Beterraba Cozida"
+                    ],
+                    "salada": [
+                        "Mix de Folhas com Abacaxi"
+                    ]
+                },
+                "jantar": {
+                    "prato_principal": [
+                        "Isca Bovina ao Molho Próprio"
+                    ],
+                    "prato_veg": [
+                        "Bife de Soja"
+                    ],
+                    "arroz": [
+                        "Arroz Branco",
+                        "Arroz Integral"
+                    ],
+                    "feijao": [
+                        "Feijão Carioca"
+                    ],
+                    "guarnicao": [
+                        "Mandioca Cozida"
+                    ],
+                    "salada": [
+                        "Tabule"
+                    ]
+                }
+            }
+        },
+        {
+            "data": "2024-09-27",
+            "cardapio": {
+                "almoco": {
+                    "prato_principal": [
+                        "Quibe Recheado"
+                    ],
+                    "prato_veg": [
+                        "Quibe de Cabotiá"
+                    ],
+                    "arroz": [
+                        "Arroz Branco",
+                        "Arroz Integral"
+                    ],
+                    "feijao": [
+                        "Feijão Carioca"
+                    ],
+                    "guarnicao": [
+                        "Chuchu com Ervas"
+                    ],
+                    "salada": [
+                        "Couve",
+                        "Cenoura"
+                    ]
+                },
+                "jantar": {
+                    "prato_principal": [
+                        "Peixe à Cubana"
+                    ],
+                    "prato_veg": [
+                        "Ovo Cozido ao Molho Branco"
+                    ],
+                    "arroz": [
+                        "Arroz Branco",
+                        "Arroz Integral"
+                    ],
+                    "feijao": [
+                        "Feijão Carioca"
+                    ],
+                    "guarnicao": [
+                        "Abobrinha, Vagem e Cenoura"
+                    ],
+                    "salada": [
+                        "Pepino",
+                        "Alface"
+                    ]
+                }
+            }
+        }
+    ]
+}
