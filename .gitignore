@@ -1,0 +1,8 @@
+# Ignore the environment variable file
+.env
+
+# Outros arquivos e diretórios que você deseja ignorar
+*.pyc
+__pycache__/
+*.log
+venv/
