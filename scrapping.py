@@ -4,12 +4,12 @@ from datetime import datetime, timedelta
 import json
 import psycopg2
 import os
-from dotenv import load_dotenv  # Importando dotenv
+from dotenv import load_dotenv  
 
-# Carregar variáveis de ambiente do arquivo .env
+
 load_dotenv()
 
-# Função auxiliar para separar as palavras corretamente
+
 def separa(texto):
     resultado = []
     palavra_atual = texto[0]
@@ -27,7 +27,6 @@ def separa(texto):
     resultado.append(palavra_atual)
     return resultado
 
-# Inicializa o dicionário geral que armazenará os cardápios por campus e dia
 campus = {}
 
 urls = {
@@ -37,9 +36,9 @@ urls = {
     'umuarama'
 }
 
-# Função para salvar os dados no banco de dados PostgreSQL
+
 def salvar_no_banco(campus_data):
-    # Conexão com o banco de dados PostgreSQL usando variáveis de ambiente
+    
     conn = psycopg2.connect(
         dbname=os.getenv("DB_NAME"),
         user=os.getenv("DB_USER"),
